@@ -32,6 +32,6 @@ Nuestro objetivo es revivir esa nostalgia con un toque moderno y desafíos únic
 - [x] Mecánicas básicas de la paleta y la bola.
 - [x] Colisiones y destrucción de bloques.
 - [x] Incorporación de niveles y bloques sorpresa.
-- [ ] Más niveles y desafíos únicos.
+- [x] Más niveles y desafíos únicos.
 
 ---
